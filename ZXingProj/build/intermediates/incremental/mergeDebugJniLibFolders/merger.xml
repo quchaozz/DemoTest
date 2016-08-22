@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\code\DemoTest\ZXingProj\libs"><file name="zxing.jar" path="F:\code\DemoTest\ZXingProj\libs\zxing.jar"/></source></dataSet><dataSet config="debug"><source path="F:\code\DemoTest\ZXingProj\src\debug\jniLibs"/></dataSet></merger>

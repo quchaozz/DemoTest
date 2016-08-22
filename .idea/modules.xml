@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DemoTest.iml" filepath="$PROJECT_DIR$/DemoTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZXingProj/ZXingProj.iml" filepath="$PROJECT_DIR$/ZXingProj/ZXingProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dms/dms.iml" filepath="$PROJECT_DIR$/dms/dms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-zxing/lib-zxing.iml" filepath="$PROJECT_DIR$/lib-zxing/lib-zxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/takephone/takephone.iml" filepath="$PROJECT_DIR$/takephone/takephone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/view/view.iml" filepath="$PROJECT_DIR$/view/view.iml" />
+    </modules>
+  </component>
+</project>

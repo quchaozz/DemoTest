@@ -1,0 +1,1 @@
+include ':app', ':takephone', ':dms', ':lib-zxing', ':ZXingProj', ':view'
